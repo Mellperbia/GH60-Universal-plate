@@ -21,6 +21,7 @@ The last row support following muntiple types of mounting
   - 1.5u+1.5u+7u+1.25u×4
   - 1.5u+1.5u+7u+1u×4
   - 1.5u+1.5u+7u+1.25u×4
+  
 And ISO Enter supported
 
 Only PCB mount stablizer are compiled due to the universal layout design.
